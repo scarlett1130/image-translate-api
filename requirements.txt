@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pillow
+rembg
+opencv-python
+paddlepaddle
+paddleocr
+torch
+enum
+cv2
